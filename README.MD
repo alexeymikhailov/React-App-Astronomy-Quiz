@@ -22,10 +22,10 @@ $ npm start
 
 Go to http://localhost:3000/ <br /> In case of changes, a page automatically updates.
 
-##Run build
+##Run build-production
 
 ```sh
-$ npm run build
+$ npm run production
 ```
 This is the command for a build folder with production-ready files.
 
